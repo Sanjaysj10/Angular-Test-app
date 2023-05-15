@@ -1,28 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
-@import 'ag-grid-community/styles/ag-grid.css';
-@import 'ag-grid-community/styles/ag-theme-alpine.css';
+// @import 'ag-grid-community/styles/ag-grid.css';
+// @import 'ag-grid-community/styles/ag-theme-alpine.css';
 
-// Scrollbar design for Mobile devices
-body {
-    ::-webkit-scrollbar {
-        width: 7px !important;
-        -webkit-overflow-scrolling: auto;
-    }
+// // Scrollbar design for Mobile devices
+// body {
+//     ::-webkit-scrollbar {
+//         width: 7px !important;
+//         -webkit-overflow-scrolling: auto;
+//     }
 
-    ::-webkit-scrollbar-track {
-        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3) !important;
-        -webkit-border-radius: 10px !important;
-        border-radius: 10px !important;
-    }
+//     ::-webkit-scrollbar-track {
+//         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3) !important;
+//         -webkit-border-radius: 10px !important;
+//         border-radius: 10px !important;
+//     }
 
-    ::-webkit-scrollbar-thumb {
-        -webkit-border-radius: 10px !important;
-        border-radius: 10px !important;
-        background: #a1a1a1 !important;
-        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5) !important;
-    }
+//     ::-webkit-scrollbar-thumb {
+//         -webkit-border-radius: 10px !important;
+//         border-radius: 10px !important;
+//         background: #a1a1a1 !important;
+//         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5) !important;
+//     }
 
-    ::-webkit-scrollbar-thumb:window-inactive {
-        background: #a1a1a1 !important;
-    }
-}
+//     ::-webkit-scrollbar-thumb:window-inactive {
+//         background: #a1a1a1 !important;
+//     }
+// }
